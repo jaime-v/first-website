@@ -2,10 +2,6 @@ body{
     text-align: center;
 }
 
-form{
-    display: inline-block;
-}
-
 .nav-bar li{
     list-style-type: none;
     float: left;
@@ -15,6 +11,24 @@ form{
 }
 
 
+form{
+    display: inline-block;
+    margin: 10px;
+}
+
+form div{
+    margin-top: 10px;
+}
+
+textarea{
+    width: 100%;
+    height: 5rem;
+}
+
+button{
+    width: 100%;
+    height: 2rem;
+}
 .imageGallery{
     margin-top: 100px;
 }
