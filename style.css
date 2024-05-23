@@ -29,6 +29,27 @@ button{
     width: 100%;
     height: 2rem;
 }
+
+
+
+.linkList{
+    text-align: left;
+    margin: auto;
+    max-width: 50%;
+}
+
+.orderedLinks{
+    display: inline-block;
+    width: 49%;
+}
+
+.unorderedLinks{
+    display: inline-block;
+    width: 49%;
+}
+
+
+
 .imageGallery{
     margin-top: 100px;
 }
