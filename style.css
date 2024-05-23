@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+
+form{
+    display: inline-block;
+}
+
+.nav-bar li{
+    list-style-type: none;
+    float: left;
+    text-align: center;
+    height: 20px;
+    width: 25%;
+}
+
+
+.imageGallery{
+    margin-top: 100px;
+}
+
+.imageCaption{
+    background-color: red;
+    text-align: center;
+    display: inline-block;
+    margin: 15px;
+}
+
+.rowContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
